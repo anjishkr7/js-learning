@@ -1,4 +1,4 @@
 # js-learning
-A code repo for javaScript 
+A code repo for javaScript
 <br>
-Author-Anjish kumar
+Author-Anjish
